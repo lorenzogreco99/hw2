@@ -1,0 +1,37 @@
+<?php
+
+return [
+
+    'search'   => 'Search people',
+    'newpost' => 'New post',
+    'messages' => 'Messages',
+    'darkmode' => 'Dark mode',
+    'famous' => 'Famous people',
+    'comment' => 'Write a comment...',
+    'close' => 'Close',
+    'think' => 'Thought',
+    'music' => 'Music',
+    'photo' => 'Photo',
+    'cat' => 'Cat',
+    'gencat' => 'Generate Cat',
+    'write' => 'Write',
+    'share' => 'What would you like to share?',
+    'addsomething' => 'Do you want to add something?',
+    'postsuccess' => 'Post saved successfully',
+    'postfailed' => 'Error in post creation',
+    'gotohome' => 'Go to home',
+    'retry' => 'Retry',
+    'followers' => 'Followers',
+    'following' => 'Following',
+    'chats' => 'Conversations',
+    'add' => 'Add',
+    'choosechat' => 'Choose a conversation',
+    'searchall' => 'View them all',
+    'searchpeople' => 'Search people to follow',
+    'or' => 'Otherwise',
+    'follow' => 'Follow',
+    'followed' => 'Followed',
+    'nomore' => "Nothing else to see",
+    'wholiked' => "People who liked",
+
+];

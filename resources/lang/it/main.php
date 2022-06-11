@@ -1,0 +1,37 @@
+<?php
+
+return [
+
+    'search'   => 'Cerca gente',
+    'newpost' => 'Nuovo post',
+    'messages' => 'Messaggi',
+    'darkmode' => 'Modalità scura',
+    'famous' => 'Gente famosa',
+    'comment' => 'Scrivi un commento...',
+    'close' => 'Chiudi',
+    'think' => 'Pensiero',
+    'music' => 'Musica',
+    'photo' => 'Foto',
+    'cat' => 'Gatto',
+    'gencat' => 'Genera Gatto',
+    'write' => 'Scrivi',
+    'share' => 'Cosa vuoi condividere?',
+    'addsomething' => 'Vuoi aggiungere qualcosa?',
+    'postsuccess' => 'Post salvato con successo',
+    'postfailed' => 'Errore nella creazione del post',
+    'gotohome' => 'Vai alla home',
+    'retry' => 'Riprova',
+    'followers' => 'Seguaci',
+    'following' => 'Seguiti',
+    'chats' => 'Conversazioni',
+    'add' => 'Aggiungi',
+    'choosechat' => 'Scegli una conversazione',
+    'searchall' => 'Visualizza tutti quanti',
+    'searchpeople' => 'Cerca gente da seguire',
+    'or' => 'Oppure',
+    'follow' => 'Segui',
+    'followed' => 'Seguito',
+    'nomore' => "Non c'è altro da vedere.",
+    'wholiked' => "Persone a cui piace",
+
+];
