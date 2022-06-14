@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Homepage</title>
-<link href="https://fonts.googleapis.com/css?family=Pangolin:400,700|Proxima+Nova" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Pangolin:400,700|Proxima+Nova">
 <meta charset="utf-8">
 <meta name="csrf-token" content="{{ csrf_token() }}">
 <link rel="stylesheet" href="css/homepage.css">
